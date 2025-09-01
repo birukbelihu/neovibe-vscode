@@ -14,5 +14,18 @@ A neon cyberpunk inspired theme for Visual Studio Code
 ## Installation
 
 1. Open the extension sidebar in Visual Studio Code(Ctrl+Shift+X on Windows Cmd+Shift+X on macOS).
-2. Search for [`NeoVibe`](https:://www.example.com) & choose "NeoVibe" by [BirukBelihu](https://github.com/birukbelihu).
+2. Search for [`NeoVibe`](https:://www.example.com) & choose "NeoVibe".
 3. Install it by clicking the install button.
+
+You can also check the Jetbrains IDE's Version of NeoVibe On Jetbrains Plugin market place.
+
+## 🙌 Contribute
+
+Want to improve `NeoVibe`? Contributions are welcome!
+
+---
+
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**. See
+the [LICENSE](https://github.com/birukbelihu/neovibe/blob/master/LICENSE) file for details.

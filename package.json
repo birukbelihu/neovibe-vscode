@@ -1,4 +1,5 @@
 {
+  "icon": "icon.png",
   "name": "neovibe",
   "displayName": "NeoVibe",
   "description": "A neon cyberpunk inspired theme for Visual Studio Code",

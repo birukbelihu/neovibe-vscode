@@ -1,0 +1,22 @@
+{
+  "name": "neovibe",
+  "displayName": "NeoVibe",
+  "description": "A neon cyberpunk inspired theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "birukbelihu",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NeoVibe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neovibe.json"
+      }
+    ]
+  }
+}

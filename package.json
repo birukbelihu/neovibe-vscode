@@ -17,7 +17,7 @@
       {
         "label": "NeoVibe",
         "uiTheme": "vs-dark",
-        "path": "./themes/neovibe.json"
+        "path": "./themes/neovibe-dark.json"
       }
     ]
   }

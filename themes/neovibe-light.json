@@ -1,11 +1,11 @@
 {
-  "name": "NeonVibe Dark",
-  "type": "dark",
+  "name": "NeoVibe Light",
+  "type": "light",
   "colors": {
-    "editor.background": "#0B0B1A",
-    "editor.foreground": "#E0E0E0",
+    "editor.background": "#F5F5F5",
+    "editor.foreground": "#1A1A1A",
     "editorCursor.foreground": "#FF00FF",
-    "editor.lineHighlightBackground": "#1A1A2E",
+    "editor.lineHighlightBackground": "#E0E0E0",
     "editor.selectionBackground": "#FF00FF33",
     "editor.selectionHighlightBackground": "#00D9FF33",
 
@@ -17,39 +17,39 @@
     "editorBracketHighlight.foreground3": "#39FF14",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF3C38",
 
-    "activityBar.background": "#1A1A2E",
+    "activityBar.background": "#EAEAEA",
     "activityBar.foreground": "#FF6AC1",
     "activityBarBadge.background": "#FF00FF",
 
-    "sideBar.background": "#141421",
-    "sideBar.foreground": "#E0E0E0",
+    "sideBar.background": "#FFFFFF",
+    "sideBar.foreground": "#1A1A1A",
     "sideBarTitle.foreground": "#FF6AC1",
-    "sideBarSectionHeader.background": "#0B0B1A",
+    "sideBarSectionHeader.background": "#F5F5F5",
 
-    "statusBar.background": "#111122",
+    "statusBar.background": "#EAEAEA",
     "statusBar.foreground": "#FF6AC1",
-    "statusBar.noFolderBackground": "#0B0B1A",
+    "statusBar.noFolderBackground": "#F5F5F5",
     "statusBar.debuggingBackground": "#00D9FF",
     "statusBar.debuggingForeground": "#FFFFFF",
 
-    "titleBar.activeBackground": "#1A1A2E",
+    "titleBar.activeBackground": "#EAEAEA",
     "titleBar.activeForeground": "#FF6AC1",
 
-    "tab.activeBackground": "#1A1A2E",
-    "tab.inactiveBackground": "#0B0B1A",
+    "tab.activeBackground": "#EAEAEA",
+    "tab.inactiveBackground": "#F5F5F5",
     "tab.activeForeground": "#FF6AC1",
     "tab.inactiveForeground": "#7777AA",
 
-    "panel.background": "#0D0D14",
+    "panel.background": "#F0F0F0",
     "panelTitle.activeBorder": "#FF6AC1",
     "panelTitle.activeForeground": "#FF6AC1",
 
-    "terminal.background": "#0B0B1A",
-    "terminal.foreground": "#E0E0E0",
+    "terminal.background": "#F5F5F5",
+    "terminal.foreground": "#1A1A1A",
     "terminalCursor.background": "#FF00FF",
     "terminalCursor.foreground": "#FF00FF",
 
-    "minimap.background": "#0B0B1A",
+    "minimap.background": "#F5F5F5",
     "minimap.selectionHighlight": "#FF6AC1AA",
 
     "errorForeground": "#FF3C38",

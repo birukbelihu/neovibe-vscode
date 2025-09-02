@@ -15,9 +15,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "NeoVibe",
+        "label": "NeoVib Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/neovibe-dark.json"
+      },
+      {
+        "label": "NeoVib Light",
+        "uiTheme": "vs",
+        "path": "./themes/neovibe-light.json"
       }
     ]
   }

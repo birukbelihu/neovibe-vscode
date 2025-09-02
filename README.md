@@ -1,34 +1,60 @@
-## NeoVibe
+# 🌌 NeoVibe
 
-![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/neovibe)
-![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/neovibe)
-![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/neovibe)
-![Version](https://vsmarketplacebadge.apphb.com/version/birukbelihu.neovibe.svg)
-![Installs](https://vsmarketplacebadge.apphb.com/installs/birukbelihu.neovibe.svg)
-![Rating](https://vsmarketplacebadge.apphb.com/rating-short/birukbelihu.neovibe.svg)
-[![Visual Studio Marketplace](https://img.shields.io/badge/VS%20Code-NeoVibe-blue?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neonvibe)
+---
 
-![pyglow Sample](https://github.com/birukbelihu/neovibe/raw/master/images/sample_1.png)
+![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/neovibe?style=flat-square&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/neovibe?style=flat-square&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/neovibe?style=flat-square)
 
-![pyglow Sample](https://github.com/birukbelihu/neovibe/raw/master/images/sample_2.png)
+[![VS Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.neovibe?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
 
-A neon cyberpunk inspired theme for Visual Studio Code
+---
 
-## Installation
+A **neon cyberpunk inspired** theme for Visual Studio Code.
 
-1. Open the extension sidebar in Visual Studio Code(Ctrl+Shift+X on Windows Cmd+Shift+X on macOS).
-2. Search for [`NeoVibe`](https:://www.example.com).
-3. Install it.
+---
 
-You can also check the Jetbrains IDE's Version of NeoVibe On Jetbrains Plugin marketplace.
+## 🎨 Screenshots
+
+> Experience the neon cyberpunk glow ✨
+
+![NeoVibe Sample 1](https://github.com/birukbelihu/neovibe/raw/master/images/sample_1.png)
+
+![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/master/images/sample_2.png)
+
+![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/master/images/sample_3.png)
+
+---
+
+## 📥 Installation
+
+1. Open the Extensions sidebar in **Visual Studio Code**  
+   - `Ctrl+Shift+X` (Windows/Linux)  
+   - `Cmd+Shift+X` (macOS)  
+2. Search for **NeoVibe**.  
+3. Click **Install**.  
+
+👉 [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
+
+---
+
+## 🧩 JetBrains Version
+
+NeoVibe will also be available for **JetBrains IDEs** soon.  
+👉 [Get it on JetBrains Marketplace](https://plugins.jetbrains.com/) _(link coming soon)_
+
+---
 
 ## 🙌 Contribute
 
-Want to improve `NeoVibe`? Contributions are welcome!
+Want to improve **NeoVibe**? Contributions are welcome!  
+Feel free to open issues or submit pull requests.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **Apache License 2.0**. See
-the [LICENSE](https://github.com/birukbelihu/neovibe/blob/master/LICENSE) file for details.
+Licensed under the **Apache License 2.0**.  
+See the [LICENSE](https://github.com/birukbelihu/neovibe/blob/master/LICENSE) file for details.

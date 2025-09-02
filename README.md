@@ -22,7 +22,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## 🎨 Features
 
-- Neon cyberpunk color schemes for both dark and light backgrounds  
+- Neon cyberpunk color schemes for both dark and light backgrounds(**Preview Version**)
 - High-contrast syntax highlighting for readability  
 - Distinct colors for keywords, strings, variables, functions, and types  
 - Neon-styled bracket pair highlighting and unexpected bracket warning  

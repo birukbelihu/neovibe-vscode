@@ -50,8 +50,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## 🧩 JetBrains Version
 
-NeoVibe will also be available for [**JetBrains IDEs**](https://www.jetbrains.com/ides/) soon.  
-👉 [Get it on JetBrains Plugin Marketplace](https://plugins.jetbrains.com/) _(link coming soon)_
+[NeoVibe](https://plugins.jetbrains.com/) will also be available for [**JetBrains IDEs**](https://www.jetbrains.com/ides/) soon.
 
 ---
 

@@ -44,8 +44,6 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 2. Search for [**NeoVibe**](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe).  
 3. **Install** & select the dark or light NeoVibe theme based on your preference.
 
-👉 [Get it on Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
-
 ---
 
 ## 🧩 JetBrains Version

@@ -37,8 +37,7 @@ NeoVibe will also be available for [**JetBrains IDEs**](https://www.jetbrains.co
 
 ## 🙌 Contribute
 
-Want to improve **NeoVibe**? Contributions are welcome!  
-Feel free to open issues or submit pull requests.
+Want to improve **NeoVibe**? Contributions are welcome!
 
 ---
 

@@ -8,34 +8,57 @@
     "editor.lineHighlightBackground": "#1A1A2E",
     "editor.selectionBackground": "#FF00FF33",
     "editor.selectionHighlightBackground": "#00D9FF33",
+
     "editorBracketMatch.background": "#FF6AC1AA",
     "editorBracketMatch.border": "#00D9FF",
+
+    "editorBracketHighlight.foreground1": "#FF00FF",
+    "editorBracketHighlight.foreground2": "#00FFFF",
+    "editorBracketHighlight.foreground3": "#39FF14",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#FF3C38",
+
     "activityBar.background": "#1A1A2E",
     "activityBar.foreground": "#FF6AC1",
     "activityBarBadge.background": "#FF00FF",
+
     "sideBar.background": "#141421",
     "sideBar.foreground": "#E0E0E0",
     "sideBarTitle.foreground": "#FF6AC1",
     "sideBarSectionHeader.background": "#0B0B1A",
+
     "statusBar.background": "#111122",
     "statusBar.foreground": "#FF6AC1",
-    "statusBar.debuggingBackground": "#FF00FF",
+    "statusBar.noFolderBackground": "#0B0B1A",
+    "statusBar.debuggingBackground": "#00D9FF",
+    "statusBar.debuggingForeground": "#FFFFFF",
+
     "titleBar.activeBackground": "#1A1A2E",
     "titleBar.activeForeground": "#FF6AC1",
+
     "tab.activeBackground": "#1A1A2E",
     "tab.inactiveBackground": "#0B0B1A",
     "tab.activeForeground": "#FF6AC1",
     "tab.inactiveForeground": "#7777AA",
+
     "panel.background": "#0D0D14",
     "panelTitle.activeBorder": "#FF6AC1",
     "panelTitle.activeForeground": "#FF6AC1",
+
     "terminal.background": "#0B0B1A",
     "terminal.foreground": "#E0E0E0",
     "terminalCursor.background": "#FF00FF",
     "terminalCursor.foreground": "#FF00FF",
+
     "minimap.background": "#0B0B1A",
     "minimap.selectionHighlight": "#FF6AC1AA",
-    "errorForeground": "#FF3C38"
+
+    "errorForeground": "#FF3C38",
+
+    "gitDecoration.addedResourceForeground": "#39FF14",
+    "gitDecoration.modifiedResourceForeground": "#FFD700",
+    "gitDecoration.deletedResourceForeground": "#FF3C38",
+    "gitDecoration.renamedResourceForeground": "#00FFFF",
+    "gitDecoration.untrackedResourceForeground": "#FF6AC1"
   },
   "tokenColors": [
     {
@@ -49,6 +72,12 @@
       "scope": "string",
       "settings": {
         "foreground": "#FF6AC1"
+      }
+    },
+    {
+      "scope": "string.regexp",
+      "settings": {
+        "foreground": "#FFD700"
       }
     },
     {
@@ -158,6 +187,25 @@
       "scope": "support.type",
       "settings": {
         "foreground": "#39FF14"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#FF6AC1"
+      }
+    },
+    {
+      "scope": "support.constant.property-value",
+      "settings": {
+        "foreground": "#00FFFF"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#FF3C38",
+        "fontStyle": "bold underline"
       }
     }
   ]

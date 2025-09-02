@@ -5,6 +5,7 @@
   "description": "A neon cyberpunk inspired theme for Visual Studio Code",
   "version": "1.0.0",
   "publisher": "birukbelihu",
+  "repository": "https://github.com/birukbelihu/neovibe",
   "engines": {
     "vscode": "^1.103.0"
   },

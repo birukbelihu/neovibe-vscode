@@ -10,13 +10,11 @@
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
 
----
-
 A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ---
 
-![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/sample_3.png)
+![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/sample.png)
 
 ## 📥 Installation
 
@@ -46,5 +44,4 @@ Feel free to open issues or submit pull requests.
 
 ## 📄 License
 
-Licensed under the **Apache License 2.0**.  
-See the [LICENSE](https://github.com/birukbelihu/neovibe/blob/main/LICENSE) file for details.
+Licensed under the **Apache License 2.0**. See the [LICENSE](https://github.com/birukbelihu/neovibe/blob/main/LICENSE) file for details.

@@ -14,14 +14,11 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ---
 
-![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/sample_1.png)
+![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/image_1.png)
 
-![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/sample_2.png)
+![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/image_2.png)
 
-![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/sample_3.png)
-
-![NeoVibe Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/sample_4.png)
-
+[Checkout more sample here](https://github.com/birukbelihu/neovibe-vscode/tree/main/images/)
 ---
 
 ## 🎨 Features
@@ -44,13 +41,9 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ![NeoVibe Language Sample 1](https://github.com/birukbelihu/neovibe/raw/main/images/demos/demo_1.png)
 
-[NeoVibe Sample 6](https://github.com/birukbelihu/neovibe/raw/main/images/sample_6.png)
+![NeoVibe Language Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/demos/demo_2.png)
 
-[NeoVibe Sample 7](https://github.com/birukbelihu/neovibe/raw/main/images/sample_7.png)
-
-[NeoVibe Sample 8](https://github.com/birukbelihu/neovibe/raw/main/images/sample_8.png)
-
-[NeoVibe Sample 9](https://github.com/birukbelihu/neovibe/raw/main/images/sample_9.png)
+[Checkout more language demos here](https://github.com/birukbelihu/neovibe-vscode/tree/main/images/demos)
 
 ## 📥 Installation
 

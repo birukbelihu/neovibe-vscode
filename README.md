@@ -20,7 +20,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/sample_3.png)
 
-![NeoVibe Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/sample_4.png)
+![NeoVibe Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/demos/sample_4.png)
 
 ---
 
@@ -39,6 +39,18 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 - Terminal and editor color alignment for consistent coding experience
 
 ---
+
+## 👨‍💻 Language samples
+
+![NeoVibe Sample 5](https://github.com/birukbelihu/neovibe/raw/main/images/sample_5.png)
+
+[NeoVibe Sample 6](https://github.com/birukbelihu/neovibe/raw/main/images/sample_6.png)
+
+[NeoVibe Sample 7](https://github.com/birukbelihu/neovibe/raw/main/images/sample_7.png)
+
+[NeoVibe Sample 8](https://github.com/birukbelihu/neovibe/raw/main/images/sample_8.png)
+
+[NeoVibe Sample 9](https://github.com/birukbelihu/neovibe/raw/main/images/sample_9.png)
 
 ## 📥 Installation
 

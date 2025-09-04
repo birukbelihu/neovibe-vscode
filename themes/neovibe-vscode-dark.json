@@ -35,9 +35,9 @@
     "titleBar.activeBackground": "#1A1A2E",
     "titleBar.activeForeground": "#FF6AC1",
 
-    "tab.activeBackground": "#1A1A2E",
+    "tab.activeBackground": "#003344",
+    "tab.activeForeground": "#00FFFF",
     "tab.inactiveBackground": "#0B0B1A",
-    "tab.activeForeground": "#FF6AC1",
     "tab.inactiveForeground": "#7777AA",
 
     "panel.background": "#0D0D14",

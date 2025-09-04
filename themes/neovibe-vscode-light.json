@@ -8,15 +8,20 @@
     "editor.lineHighlightBackground": "#f0f0f0",
     "editor.selectionBackground": "#d0f7ff",
     "editor.inactiveSelectionBackground": "#e8faff",
+
     "activityBar.background": "#f5f5f5",
     "activityBar.foreground": "#111111",
     "activityBar.activeBorder": "#ff007f",
+
     "activityBarBadge.background": "#ff007f",
     "activityBarBadge.foreground": "#ffffff",
+
     "sideBar.background": "#fdfdfd",
     "sideBar.foreground": "#222222",
+
     "statusBar.background": "#f9f9f9",
     "statusBar.foreground": "#111111",
+
     "titleBar.activeBackground": "#fdfdfd",
     "titleBar.activeForeground": "#111111"
   },

@@ -1,4 +1,4 @@
-# 🌌 NeoVibe
+# 🌌 NeoVibe for Visual Studio Code
 
 ---
 
@@ -23,17 +23,17 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## 🎨 Features
 
-- Neon cyberpunk color schemes for both dark and light backgrounds
-- High-contrast syntax highlighting for readability  
-- Distinct colors for keywords, strings, variables, functions, and types  
-- Neon-styled bracket pair highlighting and unexpected bracket warning  
-- Themed activity bar, sidebar, status bar, and title bar for both themes  
-- Styled tabs for active and inactive states  
-- Integrated Git decoration colors for added, modified, deleted, renamed, and untracked files  
-- Customized panel and minimap styling  
-- Highlighted selections, line highlights, and cursor colors  
-- Unique error and invalid token styling  
-- Terminal and editor color alignment for consistent coding experience
+- 🎨 **Cyberpunk Neon Schemes** → Dark + Light themes included  
+- ✨ **High-Contrast Syntax Highlighting** → readability with style  
+- 🔑 **Distinct Colors** → keywords, strings, variables, functions, and types  
+- 🧩 **Bracket Pair Highlighting** → neon-styled + warnings for mismatches  
+- 📊 **UI Theming** → activity bar, sidebar, status bar, title bar all styled  
+- 🗂️ **Styled Tabs** → active vs inactive clearly separated  
+- 🔄 **Git Integration** → colors for added, modified, deleted, renamed, untracked  
+- 🪟 **Panels & Minimap** → customized to match the theme aesthetic  
+- 📌 **Highlights Everywhere** → selections, line highlight, cursor glow  
+- ❌ **Error Styling** → unique neon errors & invalid token highlights  
+- 🖥️ **Terminal Integration** → consistent look between editor + terminal
 
 ---
 

@@ -1,14 +1,14 @@
 # 🌌 NeoVibe for Visual Studio Code
 
+[![VS Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.neovibe?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
+
 ---
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/neovibe?style=flat-square&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/neovibe?style=flat-square&logo=github)
 ![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/neovibe?style=flat-square)
-
-[![VS Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.neovibe?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
 
 A **neon cyberpunk inspired** theme for Visual Studio Code.
 
@@ -57,7 +57,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## 🧩 JetBrains Version
 
-[**NeoVibe**](https://plugins.jetbrains.com/) will also be available for [**JetBrains IDEs**](https://www.jetbrains.com/ides/) soon.
+[**NeoVibe**](https://plugins.jetbrains.com/) will also be available for [**JetBrains IDEs**](https://www.jetbrains.com/ides/) soon!
 
 ---
 

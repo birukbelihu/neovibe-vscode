@@ -14,14 +14,14 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## 📑 Table of Contents
 
-- [🌌 Overview](#-neovibe-for-visual-studio-code)
-- [🎨 Features](#-features)
-- [🖼️ Screenshots](🖼️ Screenshots)
-- [👨‍💻 Language Samples](#-language-samples)
-- [📥 Installation](#-installation)
-- [🧩 JetBrains Version](#-jetbrains-version)
-- [🙌 Contribute](#-contribute)
-- [📄 License](#-license)
+- [Overview](#-neovibe-for-visual-studio-code)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Language Samples](#-language-samples)
+- [Installation](#-installation)
+- [JetBrains Version](#-jetbrains-version)
+- [Contribute](#-contribute)
+- [License](#-license)
 
 ---
 

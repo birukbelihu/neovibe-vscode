@@ -1,12 +1,18 @@
-# [1.0.0] - 2025-09-01
+# [1.3.0] 2025-09-06
 
-## neovibe-vscode Initial Release
-
-# [1.2.0] - 2025-09-02
-
-## adds NeoVibe light[LED Neon] theme
+## Fixes issue with some vs code components not adapting the theme(Dropdown Menus, Buttons, Hyperlink)
+## Better light theme(NeoVibe Light)
 
 # [1.2.5] 2025-09-05
 
 ## Fixes low contrast color for the active tab background of the dark theme
 ## Adds language samples
+
+# [1.2.0] - 2025-09-02
+
+## adds NeoVibe light[LED Neon] theme
+
+# [1.0.0] - 2025-09-01
+
+## neovibe-vscode Initial Release
+

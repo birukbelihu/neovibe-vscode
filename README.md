@@ -1,4 +1,4 @@
-# 🌌 NeoVibe for Visual Studio Code
+# NeoVibe for Visual Studio Code
 
 [![VS Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/birukbelihu.neovibe?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/birukbelihu.neovibe?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
@@ -14,18 +14,18 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## 📑 Table of Contents
 
-- [🌌 Overview](#neovibe-for-visual-studio-code)
-- [🎨 Features](#features)
-- [🖼️ Screenshots](#screenshots)
-- [👨‍💻 Language Samples](#language-samples)
-- [📥 Installation](#installation)
-- [🧩 JetBrains Version](#jetbrains-version)
-- [🙌 Contribute](#contribute)
-- [📄 License](#license)
+- [Overview](#neovibe-for-visual-studio-code)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Language Samples](#language-samples)
+- [Installation](#installation)
+- [JetBrains Version](#jetbrains-version)
+- [Contribute](#contribute)
+- [License](#license)
 
 ---
 
-## 🎨 Features
+## Features
 
 - 🎨 **Cyberpunk Neon Schemes** → Dark + Light themes included
 - ✨ **High-Contrast Syntax Highlighting** → readability with style
@@ -41,7 +41,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 | ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/image_1.png) | ![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/image_3.png) |
 |:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
@@ -51,7 +51,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ---
 
-## 👨‍💻 Language Samples
+## Language Samples
 
 | ![NeoVibe Demo 1](https://github.com/birukbelihu/neovibe/raw/main/images/demos/demo_1.png) | ![NeoVibe Demo 2](https://github.com/birukbelihu/neovibe/raw/main/images/demos/demo_2.png) |
 |:------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
@@ -63,7 +63,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. Open the Extensions panel in **Visual Studio Code**
     - `Ctrl+Shift+X` (Windows/Linux)
@@ -75,16 +75,16 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 👉 [**Install from Visual Studio Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
 
-## 🧩 JetBrains Version
+## JetBrains Version
 
 NeoVibe is also planned for **JetBrains IDEs**:
 
 - ✅ [**Visual Studio Code (released)**](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe) 
-- ⏳ JetBrains IDEs (coming soon)
+- ⏳ JetBrains IDEs (in progress...)
 
 ---
 
-## 🙌 Contribute
+## Contribute
 
 Want to improve **NeoVibe**? Contributions are welcome!
 
@@ -93,7 +93,7 @@ Want to improve **NeoVibe**? Contributions are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **Apache License 2.0**. See
 the [LICENSE](https://github.com/birukbelihu/neovibe/blob/main/LICENSE) file for details.

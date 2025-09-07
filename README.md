@@ -9,6 +9,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 ![GitHub Repo stars](https://img.shields.io/github/stars/BirukBelihu/neovibe?style=flat-square&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/BirukBelihu/neovibe?style=flat-square&logo=github)
 ![GitHub issues](https://img.shields.io/github/issues/BirukBelihu/neovibe?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/birukbelihu/neovibe-vscode)
 
 ---
 

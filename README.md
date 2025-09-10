@@ -98,5 +98,4 @@ Want to improve **NeoVibe**? Contributions are welcome!
 
 ## License
 
-This project is licensed under the **Apache License 2.0**. See
-the [LICENSE](https://github.com/birukbelihu/neovibe/blob/main/LICENSE) file for details.
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](https://github.com/birukbelihu/neovibe/blob/main/LICENSE) file for details.

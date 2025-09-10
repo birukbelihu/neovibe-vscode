@@ -1,3 +1,7 @@
+# [1.3.2] 2025-09-10
+
+## Adds Neovibe Sunset theme
+
 # [1.3.0] 2025-09-06
 
 ## Fixes issue with some vs code components not adapting the theme(Dropdown Menus, Buttons, Hyperlink)
@@ -10,7 +14,7 @@
 
 # [1.2.0] - 2025-09-02
 
-## adds NeoVibe light[LED Neon] theme
+## adds NeoVibe light theme
 
 # [1.0.0] - 2025-09-01
 

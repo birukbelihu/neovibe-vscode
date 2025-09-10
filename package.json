@@ -20,9 +20,14 @@
         "path": "./themes/neovibe-vscode-dark.json"
       },
       {
-        "label": "NeoVibe Light(LED Neon)",
+        "label": "NeoVibe Light",
         "uiTheme": "vs",
         "path": "./themes/neovibe-vscode-light.json"
+      },
+      {
+        "label": "NeoVibe Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neovibe-vscode-sunset.json"
       }
     ]
   }

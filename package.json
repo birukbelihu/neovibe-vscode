@@ -30,7 +30,7 @@
         "path": "./themes/neovibe-vscode-sunset.json"
       },
       {
-        "label": "NeoVibe Sunset Cyber",
+        "label": "NeoVibe Cyber",
         "uiTheme": "vs-dark",
         "path": "./themes/neovibe-vscode-cyber.json"
       }

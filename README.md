@@ -44,12 +44,12 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## Screenshots
 
-|  ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-dark.png)  | ![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-light.png) |
-|:----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
-|                                               **Dark**                                               |                                               **Light**                                               |
-| ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-sunset.png) |  ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-cyber.png)  |                                                                                         |
-|                                              **Sunset**                                              |                                               **Cyber**                                               |
-|                                                                                                      |                                                                                                       |
+|  ![NeoVibe Sample 1](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-dark.png)  | ![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-light.png) |
+|:------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
+|                                                **Dark**                                                |                                               **Light**                                               |
+| ![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-sunset.png) | ![NeoVibe Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-cyber.png) |                                                                                         |
+|                                               **Sunset**                                               |                                               **Cyber**                                               |
+|                                                                                                        |                                                                                                       |
 
 👉 [See more screenshots here](https://github.com/birukbelihu/neovibe-vscode/tree/main/images/)
 
@@ -57,13 +57,13 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## Language Samples
 
-| ![NeoVibe Demo 1](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-java.png) | ![NeoVibe Demo 2](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-py.png)  |
-|:----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
-|                                               **Java**                                               |                                             **Python**                                              |
-|  ![NeoVibe Demo 3](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-rs.png)  | ![NeoVibe Demo 4](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-js.png)  |
-|                                               **Rust**                                               |                                           **JavaScript**                                            |
-| ![NeoVibe Demo 5](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-html.png) | ![NeoVibe Demo 6](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-cpp.png) |
-|                                               **HTML**                                               |                                               **C++**                                               |
+| ![NeoVibe Language Sample 1](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-java.png) | ![NeoVibe Language Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-py.png)  |
+|:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+|                                                    **Java**                                                     |                                                   **Python**                                                   |
+|  ![NeoVibe Language Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-rs.png)  | ![NeoVibe Language Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-js.png)  |
+|                                                    **Rust**                                                     |                                                 **JavaScript**                                                 |
+| ![NeoVibe Language Sample 5](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-html.png) | ![NeoVibe Language Sample 6](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-cpp.png) |
+|                                                    **HTML**                                                     |                                                    **C++**                                                     |
 
 👉 [View more language samples here](https://github.com/birukbelihu/neovibe-vscode/tree/main/images/demos)
 

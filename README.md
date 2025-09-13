@@ -79,8 +79,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ---
 
-👉 [**Install from Visual Studio Code Marketplace
-**](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
+👉 [Install from Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
 
 ## JetBrains Version
 

@@ -82,7 +82,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## JetBrains Version
 
-NeoVibe is also planned for **JetBrains IDEs**:
+NeoVibe is also planned for [**JetBrains IDEs**](https://jetbrains.com/ides):
 
 - ✅ [**Visual Studio Code (released)**](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe) 
 - ⏳ JetBrains IDEs (in progress...)

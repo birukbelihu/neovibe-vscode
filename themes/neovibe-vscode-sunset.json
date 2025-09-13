@@ -1,5 +1,6 @@
 {
     "name": "NeoVibe Sunset",
+    "author": "Biruk Belihu",
     "type": "dark",
     "colors": {
         "editor.background": "#1B0B2A",

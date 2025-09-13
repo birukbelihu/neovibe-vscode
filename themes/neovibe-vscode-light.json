@@ -1,5 +1,6 @@
 {
   "name": "NeoVibe Light (LED Neon)",
+  "author": "Biruk Belihu",
   "type": "light",
   "colors": {
     "editor.background": "#fafafa",

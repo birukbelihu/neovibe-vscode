@@ -1,6 +1,11 @@
+# [1.3.7] 2025-09-13
+
+## Adds NeoVibe Cyber theme
+## Fixes inconsistency in some vscode components
+
 # [1.3.2] 2025-09-10
 
-## Adds Neovibe Sunset theme
+## Adds NeoVibe Sunset theme
 
 # [1.3.0] 2025-09-06
 

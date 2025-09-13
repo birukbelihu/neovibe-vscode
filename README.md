@@ -44,12 +44,12 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## Screenshots
 
-|    ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/image_1.png)     |   ![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/image_3.png)   |
-|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
-|                                           **Dark**                                           |                                          **Light**                                          |
-| ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe-sunset.png) | ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe-cyber.png) |                                                                                         |
-|                                          **Sunset**                                          |                                          **Cyber**                                          |
-|                                                                                              |                                                                                             |
+|  ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe-dark.png)  | ![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe-light.png) |
+|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
+|                                           **Dark**                                           |                                           **Light**                                           |
+| ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe-sunset.png) |  ![NeoVibe Sample](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe-cyber.png)  |                                                                                         |
+|                                          **Sunset**                                          |                                           **Cyber**                                           |
+|                                                                                              |                                                                                               |
 
 👉 [See more screenshots here](https://github.com/birukbelihu/neovibe-vscode/tree/main/images/)
 

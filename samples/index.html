@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,13 +13,16 @@
             margin: 0;
             padding: 0;
         }
+
         a {
             color: #00ffe7;
             text-decoration: none;
         }
+
         a:hover {
             text-decoration: underline;
         }
+
         .container {
             max-width: 900px;
             margin: 2rem auto;
@@ -27,53 +31,68 @@
             border-radius: 16px;
             box-shadow: 0 0 32px #00ffe7a0;
         }
-        h1, h2, h3 {
+
+        h1,
+        h2,
+        h3 {
             color: #00ffe7;
             margin-top: 2rem;
         }
+
         h1 {
             font-size: 2.5rem;
             margin-bottom: 0.5rem;
         }
+
         hr {
             border: none;
             border-top: 2px solid #00ffe7;
             margin: 2rem 0;
         }
+
         .badges img {
             margin: 0 0.25rem 0.5rem 0;
             vertical-align: middle;
         }
+
         ul {
             margin-left: 1.5rem;
         }
-        .screenshots, .languages {
+
+        .screenshots,
+        .languages {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             gap: 1.5rem;
             margin: 2rem 0;
         }
-        .screenshots img, .languages img {
+
+        .screenshots img,
+        .languages img {
             width: 100%;
             border-radius: 8px;
             box-shadow: 0 0 16px #00ffe7a0;
             background: #222;
         }
+
         .caption {
             text-align: center;
             color: #ff00c8;
             font-weight: bold;
             margin-top: 0.5rem;
         }
+
         .install-steps {
             background: #232336;
             border-radius: 8px;
             padding: 1rem 1.5rem;
             margin: 1rem 0;
         }
+
         .install-steps li {
             margin-bottom: 0.5rem;
         }
+
         .section-link {
             display: inline-block;
             margin: 1rem 0;
@@ -85,27 +104,40 @@
             text-decoration: none;
             box-shadow: 0 0 8px #00ffe7a0;
         }
+
         @media (max-width: 700px) {
-            .container { padding: 1rem; }
-            .screenshots, .languages { grid-template-columns: 1fr; }
+            .container {
+                padding: 1rem;
+            }
+
+            .screenshots,
+            .languages {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1 id="overview">NeoVibe for Visual Studio Code</h1>
         <div class="badges">
             <a href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe">
-                <img src="https://img.shields.io/visual-studio-marketplace/v/birukbelihu.neovibe?style=flat-square&logo=visual-studio-code" alt="VS Marketplace Version">
+                <img src="https://img.shields.io/visual-studio-marketplace/v/birukbelihu.neovibe?style=flat-square&logo=visual-studio-code"
+                    alt="VS Marketplace Version">
             </a>
             <a href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe">
-                <img src="https://img.shields.io/visual-studio-marketplace/i/birukbelihu.neovibe?style=flat-square" alt="Installs">
+                <img src="https://img.shields.io/visual-studio-marketplace/i/birukbelihu.neovibe?style=flat-square"
+                    alt="Installs">
             </a>
             <a href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe">
-                <img src="https://img.shields.io/visual-studio-marketplace/r/birukbelihu.neovibe?style=flat-square" alt="Rating">
+                <img src="https://img.shields.io/visual-studio-marketplace/r/birukbelihu.neovibe?style=flat-square"
+                    alt="Rating">
             </a>
-            <img src="https://img.shields.io/github/stars/BirukBelihu/neovibe?style=flat-square&logo=github" alt="GitHub Repo stars">
-            <img src="https://img.shields.io/github/forks/BirukBelihu/neovibe?style=flat-square&logo=github" alt="GitHub forks">
+            <img src="https://img.shields.io/github/stars/BirukBelihu/neovibe?style=flat-square&logo=github"
+                alt="GitHub Repo stars">
+            <img src="https://img.shields.io/github/forks/BirukBelihu/neovibe?style=flat-square&logo=github"
+                alt="GitHub forks">
             <img src="https://img.shields.io/github/issues/BirukBelihu/neovibe?style=flat-square" alt="GitHub issues">
             <img src="https://img.shields.io/github/license/birukbelihu/neovibe-vscode" alt="GitHub License">
         </div>
@@ -146,23 +178,28 @@
         <h2 id="screenshots">Screenshots</h2>
         <div class="screenshots">
             <div>
-                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-dark.png" alt="NeoVibe Dark">
+                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-dark.png"
+                    alt="NeoVibe Dark">
                 <div class="caption">Dark</div>
             </div>
             <div>
-                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-light.png" alt="NeoVibe Light">
+                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-light.png"
+                    alt="NeoVibe Light">
                 <div class="caption">Light</div>
             </div>
             <div>
-                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-sunset.png" alt="NeoVibe Sunset">
+                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-sunset.png"
+                    alt="NeoVibe Sunset">
                 <div class="caption">Sunset</div>
             </div>
             <div>
-                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-cyber.png" alt="NeoVibe Cyber">
+                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-cyber.png"
+                    alt="NeoVibe Cyber">
                 <div class="caption">Cyber</div>
             </div>
         </div>
-        <a class="section-link" href="https://github.com/birukbelihu/neovibe-vscode/tree/main/images/">See more screenshots here</a>
+        <a class="section-link" href="https://github.com/birukbelihu/neovibe-vscode/tree/main/images/">See more
+            screenshots here</a>
         <hr>
 
         <h2 id="language-samples">Language Samples</h2>
@@ -180,7 +217,8 @@
                 <div class="caption">Rust</div>
             </div>
             <div>
-                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-js.png" alt="JavaScript">
+                <img src="https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-js.png"
+                    alt="JavaScript">
                 <div class="caption">JavaScript</div>
             </div>
             <div>
@@ -192,7 +230,8 @@
                 <div class="caption">HTML</div>
             </div>
         </div>
-        <a class="section-link" href="https://github.com/birukbelihu/neovibe-vscode/tree/main/images/demos">View more language samples here</a>
+        <a class="section-link" href="https://github.com/birukbelihu/neovibe-vscode/tree/main/images/demos">View more
+            language samples here</a>
         <hr>
 
         <h2 id="installation">Installation</h2>
@@ -203,10 +242,14 @@
                     <li><code>Cmd+Shift+X</code> (macOS)</li>
                 </ul>
             </li>
-            <li>Search for <a href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe"><strong>NeoVibe</strong></a>.</li>
-            <li><strong>Install</strong> &amp; select either the <strong>Dark</strong> or <strong>Light</strong> NeoVibe theme.</li>
+            <li>Search for <a
+                    href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe"><strong>NeoVibe</strong></a>.
+            </li>
+            <li><strong>Install</strong> &amp; select either the <strong>Dark</strong> or <strong>Light</strong> NeoVibe
+                theme.</li>
         </ol>
-        <a class="section-link" href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe">Install from Visual Studio Code Marketplace</a>
+        <a class="section-link" href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe">Install
+            from Visual Studio Code Marketplace</a>
         <hr>
 
         <h2 id="jetbrains-version">JetBrains Version</h2>
@@ -214,7 +257,8 @@
             NeoVibe is also planned for <a href="https://jetbrains.com/ides"><strong>JetBrains IDEs</strong></a>:
         </p>
         <ul>
-            <li>✅ <a href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe"><strong>Visual Studio Code (released)</strong></a></li>
+            <li>✅ <a href="https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe"><strong>Visual
+                        Studio Code (released)</strong></a></li>
             <li>⏳ JetBrains IDEs (in progress...)</li>
         </ul>
         <hr>
@@ -236,4 +280,5 @@
         </p>
     </div>
 </body>
+
 </html>

@@ -51,8 +51,6 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 |                                               **Sunset**                                               |                                               **Cyber**                                               |
 |                                                                                                        |                                                                                                       |
 
-👉 [See more screenshots here](https://github.com/birukbelihu/neovibe-vscode/tree/main/images/)
-
 ---
 
 ## Language Samples

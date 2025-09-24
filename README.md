@@ -49,9 +49,6 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 |                                                **Dark**                                                |                                               **Light**                                               |
 | ![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-sunset.png) | ![NeoVibe Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-cyber.png) |                                                                                         |
 |                                               **Sunset**                                               |                                               **Cyber**                                               |
-|                                                                                                        |                                                                                                       |
-
----
 
 ## Language Samples
 
@@ -62,10 +59,6 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 |                                                    **Rust**                                                     |                                                 **JavaScript**                                                  |
 | ![NeoVibe Language Sample 5](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-cpp.png)  | ![NeoVibe Language Sample 6](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-html.png) |
 |                                                     **C++**                                                     |                                                    **HTML**                                                     |
-
-👉 [View more language samples here](https://github.com/birukbelihu/neovibe-vscode/tree/main/images/languages)
-
----
 
 ## Installation
 
@@ -85,8 +78,6 @@ NeoVibe is also planned for [**JetBrains IDEs**](https://jetbrains.com/ides):
 
 - ✅ [**Visual Studio Code (released)**](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe)
 - ⏳ JetBrains IDEs (in progress...)
-
----
 
 ## Contribute
 

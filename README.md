@@ -66,7 +66,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
     - `Ctrl+Shift+X` (Windows/Linux)
     - `Cmd+Shift+X` (macOS)
 2. Search for [**NeoVibe**](https://marketplace.visualstudio.com/items?itemName=birukbelihu.neovibe).
-3. **Install** & select **Dark**, **Light**, **Sunset** or **Cyber** NeoVibe theme you prefer.
+3. **Install** & select one of the NeoVibe theme you prefer.
 
 ---
 

@@ -33,6 +33,11 @@
         "label": "NeoVibe Cyber",
         "uiTheme": "vs-dark",
         "path": "./themes/neovibe-vscode-cyber.json"
+      },
+      {
+        "label": "NeoVibe Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neovibe-vscode-forest.json"
       }
     ]
   }

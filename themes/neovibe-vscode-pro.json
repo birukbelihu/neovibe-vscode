@@ -1,0 +1,150 @@
+{
+  "name": "NeoVibe Pro",
+  "author": "Biruk Belihu",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0E1118",
+    "editor.foreground": "#C8CCD4",
+
+    "editorCursor.foreground": "#7AA2F7",
+
+    "editor.lineHighlightBackground": "#1A1F2B",
+
+    "editor.selectionBackground": "#33415588",
+    "editor.inactiveSelectionBackground": "#33415555",
+
+    "editor.wordHighlightBackground": "#47556944",
+    "editor.wordHighlightStrongBackground": "#47556966",
+
+    "editorBracketMatch.background": "#47556944",
+    "editorBracketMatch.border": "#7AA2F7",
+
+    "activityBar.background": "#0E1118",
+    "activityBar.foreground": "#7AA2F7",
+
+    "sideBar.background": "#0B0F16",
+    "sideBar.foreground": "#C8CCD4",
+    "sideBarTitle.foreground": "#9AA5CE",
+
+    "statusBar.background": "#0E1118",
+    "statusBar.foreground": "#7AA2F7",
+
+    "titleBar.activeBackground": "#0E1118",
+    "titleBar.activeForeground": "#C8CCD4",
+
+    "tab.activeBackground": "#1A1F2B",
+    "tab.activeForeground": "#E5E7EB",
+    "tab.inactiveForeground": "#9CA3AF",
+    "tab.border": "#0E1118",
+
+    "panel.background": "#0B0F16",
+    "panelTitle.activeForeground": "#7AA2F7",
+    "panelTitle.inactiveForeground": "#9CA3AF",
+
+    "menu.background": "#141824",
+    "menu.foreground": "#C8CCD4",
+    "menu.selectionBackground": "#7AA2F722",
+    "menu.selectionForeground": "#E5E7EB",
+    "menu.separatorBackground": "#2A2F45",
+
+    "dropdown.background": "#141824",
+    "dropdown.foreground": "#C8CCD4",
+    "dropdown.listBackground": "#0F1422",
+    "dropdown.listHoverBackground": "#7AA2F722",
+
+    "quickInput.background": "#141824",
+    "quickInput.foreground": "#C8CCD4",
+    "quickInputTitle.background": "#0F1422",
+
+    "button.background": "#1A1F2B",
+    "button.foreground": "#7AA2F7",
+    "button.hoverBackground": "#7AA2F733",
+
+    "button.secondaryBackground": "#0F1422",
+    "button.secondaryForeground": "#C8CCD4",
+    "button.secondaryHoverBackground": "#7AA2F722",
+
+    "input.background": "#0F1422",
+    "input.foreground": "#C8CCD4",
+    "input.border": "#2A2F45",
+    "input.focusBorder": "#7AA2F7",
+    "input.placeholderForeground": "#6B7280",
+
+    "terminal.background": "#0E1118",
+    "terminal.foreground": "#C8CCD4",
+    "terminal.selectionBackground": "#33415555",
+    "terminalCursor.foreground": "#7AA2F7",
+
+    "editorError.foreground": "#F87171",
+    "editorWarning.foreground": "#FBBF24",
+    "editorInfo.foreground": "#7AA2F7",
+
+    "focusBorder": "#7AA2F7",
+    "progressBar.background": "#7AA2F7"
+  },
+
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6B7280",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#7AA2F7",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#7AA2F7"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#9ECE6A"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#FBBF24"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#E5E7EB"
+      }
+    },
+    {
+      "scope": "function",
+      "settings": {
+        "foreground": "#C0CAF5"
+      }
+    },
+    {
+      "scope": "type",
+      "settings": {
+        "foreground": "#BB9AF7"
+      }
+    },
+    {
+      "scope": "operator",
+      "settings": {
+        "foreground": "#89DDFF"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#F87171"
+      }
+    }
+  ]
+}

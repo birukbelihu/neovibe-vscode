@@ -27,7 +27,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## Features
 
-- 🎨 **Cyberpunk Neon Schemes** → Dark + Light + Sunset + Cyber themes included
+- 🎨 **Cyberpunk Neon Schemes** → Dark + Sunset + Cyber + Pro themes included
 - ✨ **High-Contrast Syntax Highlighting** → readability with style
 - 🔑 **Distinct Colors** → keywords, strings, variables, functions, and types
 - 🧩 **Bracket Pair Highlighting** → neon-styled + warnings for mismatches
@@ -43,11 +43,11 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 ## Screenshots
 
-|  ![NeoVibe Sample 1](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-dark.png)  | ![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-light.png) |
+|  ![NeoVibe Sample 1](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-dark.png)  | ![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-sunset.png) |
 |:------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
-|                                                **Dark**                                                |                                               **Light**                                               |
-| ![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-sunset.png) | ![NeoVibe Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-cyber.png) |                                                                                         |
-|                                               **Sunset**                                               |                                               **Cyber**                                               |
+|                                                **Dark**                                                |                                               **Sunset**                                               |
+| ![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-cyber.png) | ![NeoVibe Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-pro.png) |                                                                                         |
+|                                               **Cyber**                                               |                                               **Pro**                                               |
 
 ## Language Samples
 

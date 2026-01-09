@@ -1,7 +1,7 @@
 # [1.5.5] 2025-01-09
 
 ## Adds Neovibe Pro theme
-## Fixed some issue with the dark theme
+## Fixed some issue with the dark & sunset theme
 
 # [1.3.7] 2025-09-13
 

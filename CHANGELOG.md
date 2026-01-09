@@ -1,3 +1,8 @@
+# [1.5.5] 2025-01-09
+
+## Adds Neovibe Pro theme
+## Fixed some issue with the dark theme
+
 # [1.3.7] 2025-09-13
 
 ## Adds NeoVibe Cyber theme

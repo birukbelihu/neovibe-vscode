@@ -45,9 +45,9 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 
 |  ![NeoVibe Sample 1](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-dark.png)  | ![NeoVibe Sample 2](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-sunset.png) |
 |:------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
-|                                                **Dark**                                                |                                               **Light**                                               |
+|                                                **Dark**                                                |                                               **Sunset**                                               |
 | ![NeoVibe Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-cyber.png) | ![NeoVibe Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/neovibe/neovibe-pro.png) |                                                                                         |
-|                                               **Sunset**                                               |                                               **Cyber**                                               |
+|                                               **Cyber**                                               |                                               **Pro**                                               |
 
 ## Language Samples
 
@@ -56,7 +56,7 @@ A **neon cyberpunk inspired** theme for Visual Studio Code.
 |                                                    **Java**                                                     |                                                   **Python**                                                    |
 |  ![NeoVibe Language Sample 3](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-rs.png)  |  ![NeoVibe Language Sample 4](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-js.png)  |
 |                                                    **Rust**                                                     |                                                 **JavaScript**                                                  |
-| ![NeoVibe Language Sample 5](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-cpp.png)  | ![NeoVibe Language Sample 6](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-html.png) |
+| ![NeoVibe Language Sample 5](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-js.png)  | ![NeoVibe Language Sample 6](https://github.com/birukbelihu/neovibe/raw/main/images/languages/neovibe-html.png) |
 |                                                     **C++**                                                     |                                                    **HTML**                                                     |
 
 ## Installation
